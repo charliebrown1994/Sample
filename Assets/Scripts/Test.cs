@@ -112,7 +112,17 @@ public class Test : MonoBehaviour
         // }
 
         // 반복문 for문 사용
-        for (int i = 0; i < 5; i++)
+        // for (int i = 0; i < 5; i++)
+        // {
+        //     Debug.Log(i);
+        // }
+
+        // for (int p = 0; p < 10; p += 2)
+        // {
+        //     Debug.Log(p);
+        // }
+
+        for (int i = 3; i <= 5; i++)
         {
             Debug.Log(i);
         }
