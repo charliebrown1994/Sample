@@ -110,6 +110,12 @@ public class Test : MonoBehaviour
         // {
         //     Debug.Log("Defence");
         // }
+
+        // 반복문 for문 사용
+        for (int i = 0; i < 5; i++)
+        {
+            Debug.Log(i);
+        }
     }
 
     // Update is called once per frame
