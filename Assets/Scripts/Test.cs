@@ -85,6 +85,31 @@ public class Test : MonoBehaviour
         //     Debug.Log("체력 50% 회복");
         // }
 
+        // if ~ else 문으로 조건 분기하기
+        // int hp = 0;
+        //if (hp >= 100)
+        // {
+        //     Debug.Log("Attack");
+        // }
+        // else
+        // {
+        //     Debug.Log("Defence");
+        // }
+
+        // 조건이 2개 이상 일 때 else if 사용
+        // int hp = 180;
+        // if (hp <= 50)
+        // {
+        //     Debug.Log("Run!");
+        // }
+        // else if (hp >= 200)
+        // {
+        //     Debug.Log("Attack");
+        // }
+        // else
+        // {
+        //     Debug.Log("Defence");
+        // }
     }
 
     // Update is called once per frame
