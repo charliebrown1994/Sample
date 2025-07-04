@@ -122,10 +122,17 @@ public class Test : MonoBehaviour
         //     Debug.Log(p);
         // }
 
-        for (int i = 3; i <= 5; i++)
+        // for (int i = 3; i <= 5; i++)
+        // {
+        //     Debug.Log(i);
+        // }
+
+        int sum = 0;
+        for (int i = 0; i <= 10; i++)
         {
-            Debug.Log(i);
+            sum += i;
         }
+        Debug.Log(sum);
     }
 
     // Update is called once per frame
