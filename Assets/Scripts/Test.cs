@@ -78,6 +78,13 @@ public class Test : MonoBehaviour
         // string message = str + num; // 문자열과 숫자를 연결하면 num은 문자열로 취급
         // Debug.Log(message);
 
+        // 제어문 사용하기
+        // int herbNum = 1;
+        // if (herbNum == 1)
+        // {
+        //     Debug.Log("체력 50% 회복");
+        // }
+
     }
 
     // Update is called once per frame
